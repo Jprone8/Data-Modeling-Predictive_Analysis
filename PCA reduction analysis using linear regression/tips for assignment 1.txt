@@ -1,0 +1,14 @@
+graded assignment 1 help:
+
+Select model with training R2 and validation R2 to be closest
+then compare model to model and choose the highest validation R2
+
+must create dummys for categorical text
+	- fuel type, color 
+
+age needs to be kept as component 1
+
+from data handling get imputation tab, dummies on imputation tab gives encoding tab, do scatterplot and PCA on encoding tab
+
+do not include quarterly tax
+
